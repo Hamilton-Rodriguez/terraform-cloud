@@ -48,7 +48,7 @@ resource "aws_route_table_association" "public-custom-route-table-association" {
   route_table_id = aws_route_table.public-custom-route-table.id
 }
 
-resource "aws_security_group" "SGG-public-ec2-instance" {
+resource "aws_security_group" "SG-public-ec2-instance" {
   name        = "Public Instance SG-${local.sufix}"
   description = "Allow SSH inbound traffic and all egress traffic"
   vpc_id      = aws_vpc.vpc-virginia.id
