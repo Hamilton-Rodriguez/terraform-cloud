@@ -1,0 +1,6 @@
+Instance with IP 34.229.136.217 destroyed. 
+Instance with IP 52.201.153.159 destroyed. 
+Instance with IP 52.91.128.81 destroyed. 
+Instance with IP 18.209.179.221 destroyed. 
+Instance with IP 35.171.184.75 destroyed. 
+Instance with IP 54.166.24.52 destroyed. 
